@@ -3,7 +3,7 @@
 ## Method 1: Brave Rewards
 If you have used the Brave Browser before, you know what Brave Rewards are. You use the browser, and you get the cryptocurrency BAT. You can donate it to Brave Creators. One Brave Creator is Team Gigabyte. 
 
-### All of the following must be done in the Brave Browser
+## All of the following must be done in the Brave Browser
 
 ## Head over to https://github.com/ssharker21/donate. That is where you will apply these instructions.
 
