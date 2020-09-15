@@ -5,6 +5,8 @@ If you have used the Brave Browser before, you know what Brave Rewards are. You 
 
 ### All of the following must be done in the Brave Browser
 
+### Head over to https://github.com/ssharker21/donate. That is where you will apply these instructions
+
 ### One-time donation
 1. ![Step 1](https://raw.githubusercontent.com/ssharker21/donate/master/How%20to%20Donate/Screen%20Shot%202020-09-15%20at%206.05.44%20PM.png)
 2. ![Step 2](https://raw.githubusercontent.com/ssharker21/donate/master/How%20to%20Donate/Screen%20Shot%202020-09-15%20at%206.07.30%20PM.png)
