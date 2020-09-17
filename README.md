@@ -1,6 +1,9 @@
 # How to donate to Team Gigabyte
 
-## Method 1: Brave Rewards
+## Method 1: Bitcoin
+Here is the Bitcoin address to donate to: `bc1qmythjczjm03kmf9cpf8kftxrwu6zj54u5802le`
+
+## Method 2: Brave Rewards
 If you have used the Brave Browser before, you know what Brave Rewards are. You use the browser, and you get the cryptocurrency BAT. You can donate it to Brave Creators. One Brave Creator is Team Gigabyte. 
 
 ## All of the following must be done in the Brave Browser
