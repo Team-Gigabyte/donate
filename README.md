@@ -1,4 +1,4 @@
-# How to donate to Team Gigabyte
+# How to Donate to Team Gigabyte
 
 ## Method 1: Bitcoin
 [![Donate with Bitcoin](https://img.shields.io/static/v1?label=donate+with&message=bitcoin&color=orange&logo=bitcoin)](bitcoin:bc1qmythjczjm03kmf9cpf8kftxrwu6zj54u5802le)
