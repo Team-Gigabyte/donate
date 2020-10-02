@@ -3,7 +3,7 @@
 ## Method 1: Bitcoin
 [![Donate with Bitcoin](https://img.shields.io/static/v1?label=donate+with&message=bitcoin&color=orange&logo=bitcoin)](bitcoin:bc1qmythjczjm03kmf9cpf8kftxrwu6zj54u5802le)
 
-Here is the Bitcoin address to donate to: `bc1qmythjczjm03kmf9cpf8kftxrwu6zj54u5802le`
+Here is the Bitcoin address to donate to: `bc1qs8hrd724v6dmvrx765tcw5w7sghlcfl7t6epf8`
 
 ## Method 2: Brave Rewards
 If you have used the Brave Browser before, you know what Brave Rewards are. You use the browser, and you get the cryptocurrency BAT. You can donate it to Brave Creators. One Brave Creator is Team Gigabyte. 
